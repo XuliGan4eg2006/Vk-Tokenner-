@@ -1,0 +1,3 @@
+vk
+requests
+colorama
