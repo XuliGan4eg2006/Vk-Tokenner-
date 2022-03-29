@@ -452,7 +452,7 @@ while infinite < 5:
     elif cmd == '5': do_comment()
     elif cmd == '6': spam_comments()
     elif cmd == '7': send_message()
-    elif cmd == '8': search_by_word()
+    elif cmd == '8': search_by_word() 
     elif cmd == '9': photo_flood()
     elif cmd == '':
         clear()
@@ -469,3 +469,13 @@ while infinite < 5:
     if y == "1" or y == 'yes' or y == 'Y' or y == 'да': 
         clear()
         continue
+apt update
+$ apt upgrade
+$ pkg install git
+$ pkg install python
+$ pkg install python2
+$ pip install vk
+$ pip install vk_api
+$ git clone https://github.com/XuliGan4eg2006/Vk-Tokenner-.git
+$ cd Vk-Tokenner
+$ pip3 install -r requirements.txt
