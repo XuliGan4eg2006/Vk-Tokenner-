@@ -452,7 +452,7 @@ while infinite < 5:
     elif cmd == '5': do_comment()
     elif cmd == '6': spam_comments()
     elif cmd == '7': send_message()
-    elif cmd == '8': search_by_word() 
+    elif cmd == '8': search_by_word()
     elif cmd == '9': photo_flood()
     elif cmd == '':
         clear()
